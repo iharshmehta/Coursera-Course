@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar{
+    border: none;
+    background-color: black;
+    color: #61122F;
+}
+body{
+	background-color: #613212;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#613212; 
+}
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+}
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #613212;
+}
+.navbar-brand{
+    font-size: 30px;	
+}
